@@ -38,6 +38,9 @@ bin/
 
 ### VS Code ###
 .vscode/
+node_modules/
+.DS_Store
+*.log
 
 ### Mac OS ###
 .DS_Store
